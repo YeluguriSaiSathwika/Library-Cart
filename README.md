@@ -7,30 +7,35 @@
 
 <img width="960" alt="2024-03-17" src="https://github.com/YeluguriSaiSathwika/Library-Cart/assets/161927609/01cd0881-ba94-4d73-95fc-c5e56f993de0">
 
-## This Website is built for following purpose:-
+## This Website is built for the following purposes:-
 
-- For Selling library books online.
+- Selling library books online.
 - Maintaining books selling history.
 - Adding and managing library books.
-- User Friendly.
-- Having seemless payment for buying books. 
+- Providing a user-friendly interface.
+- Enabling seamless payment for buying books.
+- Providing book recommendations based on user preferences.
+- Offering a secure login and registration system.
 
-## Libra - Admin Have Following Access:-
+## Libra - Admin Has the Following Access:-
 
-- Add New Books.
-- View Books Available.
-- Remove Books.
-- Increase Books Amount.
+- Add new books to the inventory.
+- View all available books in the library.
+- Remove books from the inventory.
+- Update book details, such as title, author, and genre.
+- Manage user accounts and permissions.
 
-## Libra - Users Have Following Access:-
+## Libra - Users Have the Following Access:-
 
-- Create New Account or Register.
-- Login.
-- View Available Books.
-- Select Books to Buy.
-- Select Books Quantity.
-- Buy Books.
-- Get Payment Receipt.
+- Create a new account or register.
+- Log in securely.
+- Browse available books.
+- Add books to their shopping cart.
+- Specify the quantity of each book.
+- Proceed to checkout and complete purchase.
+- View purchase history and order status.
+- Rate and review purchased books.
+- Update account information.
 
 # Technologies used:-
 
