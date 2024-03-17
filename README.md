@@ -1,5 +1,5 @@
 # Library - Cart
-A Java Full Stack Project
+###### - A Java Full Stack Project
 
 ## About
 
@@ -9,40 +9,39 @@ A Java Full Stack Project
 
 ## This Website is built for following purpose:-
 
-For Selling books online.
-Maintaining books selling history.
-Adding and managing books.
-User Friendly.
-For Implementation of Http Servlets in Java.
-This is a Mini-project developed using Java, Jdbc, And Servlets.
+- For Selling books online.
+- Maintaining books selling history.
+- Adding and managing books.
+- User Friendly.
+- For Implementation of Http Servlets in Java.
+- This is a Mini-project developed using Java, Jdbc, And Servlets.
 
 ## Admin Have Following Access for this online store site:-
 
-Add New Books.
-View Books Available.
-Remove Books.
-Increase Books Amount.
+- Add New Books.
+- View Books Available.
+- Remove Books.
+- Increase Books Amount.
 
 ## Users Have Following Access for this online store site:-
 
-Create New Account or Register.
-Login.
-View Available Books.
-Select Books to Buy.
-Select Books Quantity.
-Buy Books.
-Get Payment Receipt.
+- Create New Account or Register.
+- Login.
+- View Available Books.
+- Select Books to Buy.
+- Select Books Quantity.
+- Buy Books.
+- Get Payment Receipt.
 
 # Technologies used:-
 
-### Front-End Development:
-HTML
-CSS
-Javascript
-BootStrap
-### Back-End Development:
-Java [JDK 8+]
-JDBC
-Servlet
-### Database:
-MySql
+### - Front-End Development:
+ - HTML
+ - CSS
+ - Javascript
+ - BootStrap
+### - Back-End Development:
+ - Java [JDK 8+]
+ - JDBC
+### - Database:
+ - MySql
