@@ -1,5 +1,5 @@
 # Library - Cart
-#### - A Java Full Stack Project
+#### A Java Full Stack Project
 
 ## About
 
