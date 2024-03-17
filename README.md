@@ -1,5 +1,5 @@
 # Library - Cart
-###### - A Java Full Stack Project
+#### - A Java Full Stack Project
 
 ## About
 
@@ -9,21 +9,20 @@
 
 ## This Website is built for following purpose:-
 
-- For Selling books online.
+- For Selling library books online.
 - Maintaining books selling history.
-- Adding and managing books.
+- Adding and managing library books.
 - User Friendly.
-- For Implementation of Http Servlets in Java.
-- This is a Mini-project developed using Java, Jdbc, And Servlets.
+- Having seemless payment for buying books. 
 
-## Admin Have Following Access for this online store site:-
+## Libra - Admin Have Following Access:-
 
 - Add New Books.
 - View Books Available.
 - Remove Books.
 - Increase Books Amount.
 
-## Users Have Following Access for this online store site:-
+## Libra - Users Have Following Access:-
 
 - Create New Account or Register.
 - Login.
